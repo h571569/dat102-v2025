@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/f01-figurer-ordnetpar-losning/f01-figurer-ordnetpar-losning.iml" filepath="$PROJECT_DIR$/f01-figurer-ordnetpar-losning/f01-figurer-ordnetpar-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f02-tabellbag-fyllinn/f02-tabellbag-fyllinn.iml" filepath="$PROJECT_DIR$/f02-tabellbag-fyllinn/f02-tabellbag-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f02-tabellbag-itimen/f02-tabellbag-itimen.iml" filepath="$PROJECT_DIR$/f02-tabellbag-itimen/f02-tabellbag-itimen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f03-node-nodelenke-fyllinn/f03-node-nodelenke-fyllinn.iml" filepath="$PROJECT_DIR$/f03-node-nodelenke-fyllinn/f03-node-nodelenke-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f03-node-nodelenke-losning/f03-node-nodelenke-losning.iml" filepath="$PROJECT_DIR$/f03-node-nodelenke-losning/f03-node-nodelenke-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f04-lenketbag-analyse-fyllinn/f04-lenketbag-analyse-fyllinn.iml" filepath="$PROJECT_DIR$/f04-lenketbag-analyse-fyllinn/f04-lenketbag-analyse-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
+    </modules>
+  </component>
+</project>
